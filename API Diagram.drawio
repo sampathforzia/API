@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T04:57:37.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="9SEC9TzqtsjMsgHChSxi" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-05T05:01:41.248Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="OsvRW3GePqgxfXEQbbvA" version="20.0.4" type="github">
   <diagram id="NsxCB-QqvoKfSkn2WVq3" name="Page-1">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1157" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,10 +8,28 @@
           <mxGeometry x="293" y="80" width="132" height="350" as="geometry" />
         </mxCell>
         <mxCell id="25oaMbJbK_RTb96W0AZA-2" value="Web API Gateway" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="440" y="80" width="132" height="510" as="geometry" />
+          <mxGeometry x="440" y="80" width="132" height="1010" as="geometry" />
         </mxCell>
         <mxCell id="25oaMbJbK_RTb96W0AZA-3" value="Web API Gateway" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="600" y="90" width="250" height="510" as="geometry" />
+          <mxGeometry x="600" y="90" width="250" height="990" as="geometry" />
+        </mxCell>
+        <mxCell id="25oaMbJbK_RTb96W0AZA-5" value="System Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="120" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="25oaMbJbK_RTb96W0AZA-6" value="Employee Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="190" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="25oaMbJbK_RTb96W0AZA-7" value="Organization Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="270" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="25oaMbJbK_RTb96W0AZA-8" value="Payroll Service Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="350" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="25oaMbJbK_RTb96W0AZA-9" value="Performance Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="430" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="25oaMbJbK_RTb96W0AZA-10" value="Performance Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="510" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
