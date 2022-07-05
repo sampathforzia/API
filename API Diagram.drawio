@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T07:02:43.183Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="HbtssTKTAa8hxnz9SW6I" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-05T07:02:56.910Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="7ZGqD_c2wzWHaM09nUuZ" version="20.0.4" type="github">
   <diagram id="NsxCB-QqvoKfSkn2WVq3" name="Page-1">
     <mxGraphModel dx="2894" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -244,10 +244,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="25oaMbJbK_RTb96W0AZA-112" value="&lt;font face=&quot;Helvetica&quot;&gt;API DB&lt;/font&gt;" style="shape=datastore;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=1;fontFamily=Times New Roman;fontSize=30;fontColor=#FFFFFF;strokeColor=#FFFFFF;fillColor=#F04662;gradientColor=#FF1947;gradientDirection=south;" vertex="1" parent="1">
-          <mxGeometry x="490" y="440" width="130" height="140" as="geometry" />
+          <mxGeometry x="490" y="490" width="130" height="140" as="geometry" />
         </mxCell>
         <mxCell id="25oaMbJbK_RTb96W0AZA-113" value="&lt;font face=&quot;Helvetica&quot; color=&quot;#080808&quot;&gt;Talentoz DB&lt;/font&gt;" style="shape=datastore;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=1;fontFamily=Times New Roman;fontSize=30;strokeColor=#996185;fillColor=#e6d0de;gradientColor=#d5739d;gradientDirection=south;" vertex="1" parent="1">
-          <mxGeometry x="490" y="690" width="130" height="140" as="geometry" />
+          <mxGeometry x="490" y="710" width="130" height="140" as="geometry" />
         </mxCell>
         <mxCell id="25oaMbJbK_RTb96W0AZA-114" value="System API Gateway" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;fontSize=17;strokeColor=#BFBFBF;fillColor=#64D9AE;gradientColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="-290" y="180" width="160" height="80" as="geometry" />
@@ -259,7 +259,7 @@
           <mxGeometry x="-370" y="174" width="40" height="820" as="geometry" />
         </mxCell>
         <mxCell id="25oaMbJbK_RTb96W0AZA-117" value="&lt;font face=&quot;Helvetica&quot;&gt;Identity Server&lt;/font&gt;" style="shape=datastore;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=1;fontFamily=Times New Roman;fontSize=30;strokeColor=#36393d;fillColor=#99F8FF;gradientDirection=south;gradientColor=#1FFFE1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="240" width="130" height="140" as="geometry" />
+          <mxGeometry x="480" y="270" width="130" height="140" as="geometry" />
         </mxCell>
         <mxCell id="25oaMbJbK_RTb96W0AZA-118" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;This identity server optional if we required to manager Client and security User separately&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=1;fontFamily=Helvetica;fontSize=30;fontColor=#000000;strokeColor=#B09500;fillColor=#e3c800;gradientDirection=south;" vertex="1" parent="1">
           <mxGeometry x="437.5" y="80" width="235" height="150" as="geometry" />
