@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T06:26:08.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="hYvzZefypE7r9c689SlQ" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-05T06:27:43.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="oyfANsm_tNJIDTjy7MSG" version="20.0.4" type="github">
   <diagram id="NsxCB-QqvoKfSkn2WVq3" name="Page-1">
     <mxGraphModel dx="2894" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="25oaMbJbK_RTb96W0AZA-26" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#E3F7E2;fontColor=#333333;glass=0;sketch=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="-430" y="55" width="930" height="1040" as="geometry" />
         </mxCell>
-        <mxCell id="25oaMbJbK_RTb96W0AZA-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=27;endSize=6;strokeColor=default;fillColor=#00FFFF;" edge="1" parent="1" source="25oaMbJbK_RTb96W0AZA-2">
+        <mxCell id="25oaMbJbK_RTb96W0AZA-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=27;endSize=6;strokeColor=default;fillColor=#00FFFF;entryX=0;entryY=0.586;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="25oaMbJbK_RTb96W0AZA-2" target="25oaMbJbK_RTb96W0AZA-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-90.00000000000045" y="660" as="targetPoint" />
           </mxGeometry>
@@ -139,6 +139,19 @@
         </mxCell>
         <mxCell id="25oaMbJbK_RTb96W0AZA-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.075;entryY=0.807;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=17;endSize=6;strokeColor=default;fillColor=#00FFFF;" edge="1" parent="1" source="25oaMbJbK_RTb96W0AZA-30" target="25oaMbJbK_RTb96W0AZA-26">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="25oaMbJbK_RTb96W0AZA-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;endSize=6;strokeColor=default;fillColor=#00FFFF;" edge="1" parent="1" source="25oaMbJbK_RTb96W0AZA-38" target="25oaMbJbK_RTb96W0AZA-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-865" y="30" />
+              <mxPoint x="352" y="30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="25oaMbJbK_RTb96W0AZA-71" value="&lt;b&gt;Current Talentoz Business Process&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="25oaMbJbK_RTb96W0AZA-70">
+          <mxGeometry x="-0.2002" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
