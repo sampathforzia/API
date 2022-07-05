@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T05:58:48.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="lqaQLZowTlYeNTQ3cjBT" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-05T06:08:53.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="i0FDfo40ma61BN4-6CAp" version="20.0.4" type="github">
   <diagram id="NsxCB-QqvoKfSkn2WVq3" name="Page-1">
-    <mxGraphModel dx="2067" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2894" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="25oaMbJbK_RTb96W0AZA-32" value="" style="whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="-990" y="130" width="490" height="930" as="geometry" />
+        </mxCell>
         <mxCell id="25oaMbJbK_RTb96W0AZA-26" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#E3F7E2;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-470" y="55" width="900" height="1040" as="geometry" />
-        </mxCell>
-        <mxCell id="25oaMbJbK_RTb96W0AZA-1" value="&lt;h1 style=&quot;font-size: 25px;&quot;&gt;Talentoz App&lt;/h1&gt;&lt;br&gt;(&lt;b&gt;Only Deal with communicate with Service Provider get API response&lt;/b&gt;)" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-660" y="200" width="160" height="420" as="geometry" />
         </mxCell>
         <mxCell id="25oaMbJbK_RTb96W0AZA-3" value="" style="whiteSpace=wrap;html=1;fillColor=#F7F7F7;strokeColor=#CFCFCF;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-10" y="80" width="250" height="990" as="geometry" />
@@ -54,6 +54,21 @@
         </mxCell>
         <mxCell id="25oaMbJbK_RTb96W0AZA-27" value="&lt;h1&gt;Web API Gateway&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-305" y="140" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="25oaMbJbK_RTb96W0AZA-1" value="&lt;h1 style=&quot;font-size: 25px;&quot;&gt;Talentoz App&lt;/h1&gt;&lt;br&gt;(&lt;b&gt;Only&amp;nbsp; with communicate with Service Provider get API response and build UI Model of the&amp;nbsp;response&lt;/b&gt;)" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="160" width="190" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="25oaMbJbK_RTb96W0AZA-29" value="&lt;h1 style=&quot;font-size: 25px;&quot;&gt;3rd Party integration&lt;/h1&gt;&lt;br&gt;(&lt;b&gt;Any external application interact with API gateway to get talentoz service&lt;/b&gt;)" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="-950" y="470" width="170" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="25oaMbJbK_RTb96W0AZA-30" value="&lt;h1 style=&quot;font-size: 25px;&quot;&gt;Mobile App&amp;nbsp;&lt;/h1&gt;&lt;br&gt;(&lt;b&gt;Talentoz mobile app&lt;/b&gt;)" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="-950" y="780" width="170" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="25oaMbJbK_RTb96W0AZA-38" value="&lt;h1 style=&quot;font-size: 25px;&quot;&gt;Talentoz UI&lt;/h1&gt;&lt;br&gt;(&lt;b&gt;Front UI web site&lt;/b&gt;)" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="-950" y="160" width="170" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="25oaMbJbK_RTb96W0AZA-39" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;fontSize=25;strokeColor=#CFCFCF;fillColor=#64D9AE;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="370" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
