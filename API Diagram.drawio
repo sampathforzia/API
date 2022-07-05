@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T06:28:20.783Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="JnPjRmEyrPyvPZeWPcwf" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-05T06:33:40.659Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="6gjYPi7fs0FoVyd-iNgD" version="20.0.4" type="github">
   <diagram id="NsxCB-QqvoKfSkn2WVq3" name="Page-1">
     <mxGraphModel dx="2894" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,6 +149,21 @@
           <mxGeometry x="-0.2002" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="25oaMbJbK_RTb96W0AZA-76" value="System API Gateway" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;fontSize=17;strokeColor=#BFBFBF;fillColor=#64D9AE;gradientColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="180" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="25oaMbJbK_RTb96W0AZA-77" value="Core Module Gateway" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;fontSize=17;strokeColor=#BFBFBF;fillColor=#64D9AE;gradientColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="-335" y="350" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="25oaMbJbK_RTb96W0AZA-78" value="Data Import API Gateway" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;fontSize=17;strokeColor=#BFBFBF;fillColor=#64D9AE;gradientColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="-335" y="670" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="25oaMbJbK_RTb96W0AZA-79" value="Transaction Module Gateway" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;fontSize=17;strokeColor=#BFBFBF;fillColor=#64D9AE;gradientColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="-335" y="510" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="25oaMbJbK_RTb96W0AZA-80" value="Report Module Gateway" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;fontSize=17;strokeColor=#BFBFBF;fillColor=#64D9AE;gradientColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="-335" y="830" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
