@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T06:28:12.514Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="eqnuMN0niqAU2BkHK2v5" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-05T06:28:20.783Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="JnPjRmEyrPyvPZeWPcwf" version="20.0.4" type="github">
   <diagram id="NsxCB-QqvoKfSkn2WVq3" name="Page-1">
     <mxGraphModel dx="2894" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,9 +17,6 @@
         </mxCell>
         <mxCell id="25oaMbJbK_RTb96W0AZA-2" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-355" y="80" width="200" height="970" as="geometry" />
-        </mxCell>
-        <mxCell id="25oaMbJbK_RTb96W0AZA-27" value="&lt;h1&gt;Web API Gateway&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-305" y="140" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="25oaMbJbK_RTb96W0AZA-1" value="&lt;h1 style=&quot;font-size: 25px;&quot;&gt;Talentoz App&lt;/h1&gt;&lt;br&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;(&lt;b&gt;Only&amp;nbsp; with communicate with Service Provider get API response and build UI Model of the&amp;nbsp;response&lt;/b&gt;)&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="-720" y="149" width="170" height="250" as="geometry" />
