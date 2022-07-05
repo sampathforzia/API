@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T05:56:42.518Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="gI4dIacMNP-6ZWqZ-K0F" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-05T05:57:04.248Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="06zOcYIod6U97537_B0r" version="20.0.4" type="github">
   <diagram id="NsxCB-QqvoKfSkn2WVq3" name="Page-1">
     <mxGraphModel dx="2067" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="25oaMbJbK_RTb96W0AZA-1" value="Talentoz App&lt;br&gt;&lt;br&gt;(Only Deal with communicate with Service Provider get API response)" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-270" y="170" width="132" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="25oaMbJbK_RTb96W0AZA-3" value="" style="whiteSpace=wrap;html=1;fillColor=#F7F7F7;strokeColor=#BABABA;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="25oaMbJbK_RTb96W0AZA-3" value="" style="whiteSpace=wrap;html=1;fillColor=#F7F7F7;strokeColor=#CFCFCF;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="370" y="80" width="250" height="990" as="geometry" />
         </mxCell>
         <mxCell id="25oaMbJbK_RTb96W0AZA-5" value="System Service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
