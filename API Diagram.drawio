@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T05:01:41.248Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="OsvRW3GePqgxfXEQbbvA" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-05T05:27:23.512Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="aqlCvCPzmwbU4P2ShnBR" version="20.0.4" type="github">
   <diagram id="NsxCB-QqvoKfSkn2WVq3" name="Page-1">
     <mxGraphModel dx="1157" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,8 +28,26 @@
         <mxCell id="25oaMbJbK_RTb96W0AZA-9" value="Performance Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="645" y="430" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="25oaMbJbK_RTb96W0AZA-10" value="Performance Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="25oaMbJbK_RTb96W0AZA-10" value="T&amp;amp;A Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="645" y="510" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="25oaMbJbK_RTb96W0AZA-11" value="Claim Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="600" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="25oaMbJbK_RTb96W0AZA-12" value="Learning Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="680" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="25oaMbJbK_RTb96W0AZA-13" value="Resource Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="760" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="25oaMbJbK_RTb96W0AZA-14" value="Recruitment Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="840" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="25oaMbJbK_RTb96W0AZA-15" value="Import&amp;nbsp; Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="920" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="25oaMbJbK_RTb96W0AZA-16" value="Report Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="1000" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
