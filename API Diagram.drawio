@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T06:57:30.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="drzCko-SZ-u-zgutVQZ2" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-05T06:58:27.111Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="V02c17g-KtbzkZxYE4ub" version="20.0.4" type="github">
   <diagram id="NsxCB-QqvoKfSkn2WVq3" name="Page-1">
-    <mxGraphModel dx="3237" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2894" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -258,7 +258,7 @@
         <mxCell id="25oaMbJbK_RTb96W0AZA-116" value="API Security Gateway(Auth)" style="swimlane;horizontal=0;rounded=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=1;fontFamily=Helvetica;fontSize=30;fontColor=#FFFFFF;strokeColor=#FFFFFF;fillColor=#F04662;gradientColor=#FF1947;gradientDirection=south;startSize=40;" vertex="1" parent="1">
           <mxGeometry x="-370" y="174" width="40" height="820" as="geometry" />
         </mxCell>
-        <mxCell id="25oaMbJbK_RTb96W0AZA-117" value="&lt;font face=&quot;Helvetica&quot;&gt;API DB&lt;/font&gt;" style="shape=datastore;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=1;fontFamily=Times New Roman;fontSize=30;fontColor=#FFFFFF;strokeColor=#FFFFFF;fillColor=#F04662;gradientColor=#FF1947;gradientDirection=south;" vertex="1" parent="1">
+        <mxCell id="25oaMbJbK_RTb96W0AZA-117" value="&lt;font face=&quot;Helvetica&quot;&gt;Identity Server&lt;/font&gt;" style="shape=datastore;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=1;fontFamily=Times New Roman;fontSize=30;strokeColor=#36393d;fillColor=#99F8FF;gradientDirection=south;gradientColor=#1FFFE1;" vertex="1" parent="1">
           <mxGeometry x="500" y="180" width="130" height="140" as="geometry" />
         </mxCell>
       </root>
